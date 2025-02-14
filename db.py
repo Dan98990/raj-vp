@@ -1,10 +1,10 @@
 import sqlite3
 
 default_admins = [
-    (1, '1549748318', 1),
-    (2, '1549748318', 1)
+    (1, '7104737839', 1),
+    (2, '7104737839', 1)
 ]
-token = '7709792223:AAEy3BwIheJ2ikrhrAsHKlHlTnKUQmZl7hs'
+token = '7138531549:AAEQH5eTvZ_RRNq4yKhJaYDCxj3zSrHjqsU'
 bot_name = 'ᴅᴀʀᴋ x ꜱᴇʀᴠᴇʀ'
 bot_username = '@@Darkddos007_bot'
 owner_username = '@RAJOWNER90'
